@@ -1,6 +1,15 @@
 ## Voting-Machine ##
 ***
 * A simple voting machine where a voter votes to the candidate of his choice.
+* This Project main aim is to provide safe and secure voting system environment, where
+admin can allow the user to vote, and admin declare a result.
+
+1. Project is people to vote and select their Leader
+2. Project may be used colleges / schools to select Class Representative or Leader to
+college
+3. Simple to Use and May Future need this
+4. Voting does not to be scam. This project is safe and secure.
+
 * Here, there are 2 scenarios where voter can vote,
    1. if the name of voter is there in list(signup.csv),then to vote first he must go through sign in and proceed to vote.
    2. if the name is not there in the list(signup.csv),then to vote he must create a username & password by clicking sign-up option and proceed to vote by signin.
