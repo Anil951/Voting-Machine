@@ -30,4 +30,4 @@ college
 
 * There by,providing a safe atmosphere of an election to the voter 😄
 
-<video src='vm-demo.mp4' width=180/>
+<video src='https://user-images.githubusercontent.com/115132631/206217634-aae85440-fefc-42c2-a106-8105f648ccb7.mp4' width=180/>
