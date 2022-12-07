@@ -29,3 +29,5 @@ college
     | :-----------: |:---------------:| :------------:| :-----------: |:---------------:|
 
 * There by,providing a safe atmosphere of an election to the voter 😄
+
+<video src='vm-demo.mp4' width=180/>
